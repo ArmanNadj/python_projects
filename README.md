@@ -1,3 +1,3 @@
-# python_scripts
+# python_projects
 
-All of the code in python_scripts serves as projects, allowing me to demonstrate my programming knowledge, as well as an opportunity to build upon my knowledge base.
+This python_projects repo allows me to demonstrate my programming knowledge in Python, as well as my overall programming knowledge base.
