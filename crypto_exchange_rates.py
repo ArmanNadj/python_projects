@@ -1,6 +1,5 @@
 #Author and Purpose:
 # Author: Arman Nadjarian
-# This project is ONLY for the purposes of learning how to interact with API's
 # To test the project, run "python3 crypto_exchange_rates.py" in the terminal/cmd prompt
 # with a working "python3" interpreter installed.
 
